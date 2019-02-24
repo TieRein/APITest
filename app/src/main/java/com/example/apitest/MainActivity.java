@@ -82,7 +82,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        startActivity(new Intent(this,  CalendarPractice.class));
+        //startActivity(new Intent(this,  CalendarPractice.class));
+        startActivity(new Intent(this,  calendarTest.class));
         finish();
     }
 
