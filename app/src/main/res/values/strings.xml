@@ -3,4 +3,10 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="device_name_prompt">Select Device</string>
+    <string-array name="device_names">
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+    <string name="title_activity_basic">BasicActivity</string>
 </resources>
